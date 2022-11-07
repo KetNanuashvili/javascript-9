@@ -1,0 +1,7 @@
+.error-text{
+    display: block;
+    color: brown;
+}
+.emailerror{
+    display: flex;
+}
